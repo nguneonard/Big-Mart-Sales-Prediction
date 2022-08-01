@@ -11,9 +11,9 @@ The goal of this project was to build a predictive model capable of predicting s
 After brainstorming on the objectives, it was then time to acquire the data. The data for this project is available at:
 
 
-train file: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/download/train-file
-test file: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/download/test-file
-sample submission file: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/download/sample-submission
+train file:https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/download/train-file
+test file:https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/download/test-file
+sample submission file:https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/download/sample-submission
 
 ## Dataset Description
 | Variable     | Description |
