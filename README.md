@@ -1,4 +1,8 @@
 # Big-Mart-Sales-Prediction
+<p align="center">
+  <img src="https://github.com/nguneonard/Loan-Prediction/blob/main/loan.png"  title="hover text">
+</p>
+
 
 ## Project Objective
 The purpose of this project is to build a predictive model to find out the sales of each product at a particular store at BigMart.
