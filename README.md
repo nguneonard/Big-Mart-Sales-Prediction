@@ -1,6 +1,6 @@
 # Big-Mart-Sales-Prediction
 <p align="center">
-  <img src="https://github.com/nguneonard/Loan-Prediction/blob/main/loan.png"  title="hover text">
+  <img src="https://github.com/nguneonard/Big-Mart-Sales-Prediction/blob/main/bignart1-thumbnail-1200x1200.png"  title="hover text">
 </p>
 
 
